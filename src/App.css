@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,500;1,400;1,500&display=swap");
 
 body {
   margin: 2em;
   background-color: #f5f2d7;
   color: #333333;
-  font-family: 'Gelasio', serif;
+  font-family: "Gelasio", serif;
   font-weight: 400;
 }
 
@@ -21,7 +21,7 @@ a:hover {
   text-decoration-style: dashed;
 }
 
-h1  {
+h1 {
   cursor: default;
   margin: 0;
   width: fit-content;
