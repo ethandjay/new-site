@@ -9,7 +9,7 @@ function App() {
       <section>
         <p>
           Brooklyn, NY<br/>
-          Software Engineer at <a href='https://www.olo.com/' target='_blank'>Olo</a>
+          Senior Software Engineer at <a href='https://www.olo.com/' target='_blank'>Olo</a>
         </p>
       </section>
       <section>
