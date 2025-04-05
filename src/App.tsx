@@ -1,4 +1,4 @@
-import "./App.css";
+import './App.css';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <p>
           Brooklyn, NY
           <br />
-          Senior Software Engineer at{" "}
+          Senior Software Engineer at{' '}
           <a href="https://www.olo.com/" target="_blank" rel="noreferrer">
             Olo
           </a>
